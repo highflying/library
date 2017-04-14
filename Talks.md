@@ -7,6 +7,11 @@ by Cory House
 
 https://vimeo.com/97415346
 
+### Public Speaking without Barfing on Your Shoes
+by David Neal
+
+https://www.youtube.com/watch?v=aPSvHT9USO8
+
 ## Programming
 
 ### Software Faster
