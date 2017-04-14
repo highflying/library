@@ -12,6 +12,11 @@ by David Neal
 
 https://www.youtube.com/watch?v=aPSvHT9USO8
 
+### Addressing Imposter Syndrome 
+by Crystal Huff
+
+https://vimeo.com/album/4045988/video/173322918
+
 ## Programming
 
 ### Software Faster
