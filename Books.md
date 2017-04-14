@@ -27,6 +27,16 @@ by Dale Carnegie
 
 https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814
 
+### Emotional Intelligence
+by Daniel Goleman
+
+https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306
+
+### The Power of the Other
+by Dr. Henry Cloud
+
+https://www.amazon.co.uk/Power-Other-Henry-Cloud/dp/0062499580
+
 ## Programming
 
 ### Code Complete: A Practical Handbook of Software Construction
