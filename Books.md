@@ -54,6 +54,11 @@ by Robert C. Martin
 
 https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 
+### Talking with Tech Leads: From Novices to Practitioners
+by Patrick Kua
+
+https://www.amazon.co.uk/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X
+
 ## Node.js
 
 ### Node.js Design Patterns
