@@ -1,2 +1,15 @@
 # Talks
 
+## General
+
+### Becoming an Outlier: Career Reboot for the Developer Mind
+by Cory House
+
+https://vimeo.com/97415346
+
+## Programming
+
+### Software Faster
+by Dan North
+
+https://www.youtube.com/watch?v=USc-yLHXNUg
