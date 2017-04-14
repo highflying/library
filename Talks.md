@@ -18,3 +18,10 @@ https://www.youtube.com/watch?v=aPSvHT9USO8
 by Dan North
 
 https://www.youtube.com/watch?v=USc-yLHXNUg
+
+## Node.js
+
+### 9 Anti-Patterns for Node.js Teams
+by Jeff Harrell
+
+https://www.youtube.com/watch?v=6phif2t-wj0
