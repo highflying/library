@@ -37,6 +37,16 @@ by Dr. Henry Cloud
 
 https://www.amazon.co.uk/Power-Other-Henry-Cloud/dp/0062499580
 
+### Bounce: The Myth of Talent and the Power of Practice
+by Matthew Syed
+
+https://www.amazon.co.uk/Bounce-Myth-Talent-Power-Practice/dp/0007350546
+
+### Black Box Thinking: Marginal Gains and the Secrets of High Performance
+by Matthew Syed
+
+https://www.amazon.co.uk/Black-Box-Thinking-Marginal-Performance/dp/1473613809
+
 ## Programming
 
 ### Code Complete: A Practical Handbook of Software Construction
