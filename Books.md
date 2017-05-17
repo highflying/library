@@ -47,6 +47,18 @@ by Matthew Syed
 
 https://www.amazon.co.uk/Black-Box-Thinking-Marginal-Performance/dp/1473613809
 
+### Action Inquiry: The Secret of Timely and Transforming Leadership
+by William R. Torbert
+
+https://www.amazon.co.uk/Action-Inquiry-Secret-Transforming-Leadership-ebook/dp/B005LY2JG8
+
+## Agile
+
+### Lean Enterprise: How High Performance Organizations Innovate at Scale
+by Jez Humble, Joanne Molesky, Barry O'Reilly
+
+https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8
+
 ## Programming
 
 ### Code Complete: A Practical Handbook of Software Construction
