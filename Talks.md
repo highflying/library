@@ -24,6 +24,11 @@ by Dan North
 
 https://www.youtube.com/watch?v=USc-yLHXNUg
 
+### Decisions, Decisions
+by Dan North
+
+https://www.youtube.com/watch?v=EauykEv_2iA 
+
 ## Node.js
 
 ### 9 Anti-Patterns for Node.js Teams
