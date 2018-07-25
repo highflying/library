@@ -2,90 +2,80 @@
 
 ## General
 
-### The 7 Habits of Highly Effective People
-by Stephen R. Covey
+- The Gifts of Imperfection
 
-https://www.amazon.co.uk/Habits-Highly-Effective-People/dp/0684858398/
+  Brené Brown, 2010
 
-### The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
-by Mark Mason
+- Braving the Wilderness
 
-https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457721
+  Brené Brown, 2017
 
-### Eat That Frog!: Get More of the Important Things Done - Today!
-by Brian Tracy
+- The 7 Habits of Highly Effective People
 
-https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426
+  Stephen R. Covey, 1999
 
-### Ego is the Enemy: The Fight to Master Our Greatest Opponent
-by Ryan Holiday
+- The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
 
-https://www.amazon.co.uk/Ego-Enemy-Master-Greatest-Opponent/dp/1781257027
+  by Mark Mason, 2016
 
-### How to Win Friends and Influence People
-by Dale Carnegie
+- Eat That Frog!: Get More of the Important Things Done - Today!
 
-https://www.amazon.co.uk/How-Win-Friends-Influence-People/dp/0091906814
+  by Brian Tracy
 
-### Emotional Intelligence
-by Daniel Goleman
+- Ego is the Enemy: The Fight to Master Our Greatest Opponent
 
-https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306
+  by Ryan Holiday
 
-### The Power of the Other
-by Dr. Henry Cloud
+- How to Win Friends and Influence People
 
-https://www.amazon.co.uk/Power-Other-Henry-Cloud/dp/0062499580
+  by Dale Carnegie
 
-### Bounce: The Myth of Talent and the Power of Practice
-by Matthew Syed
+- Emotional Intelligence
 
-https://www.amazon.co.uk/Bounce-Myth-Talent-Power-Practice/dp/0007350546
+  by Daniel Goleman
 
-### Black Box Thinking: Marginal Gains and the Secrets of High Performance
-by Matthew Syed
+- The Power of the Other
 
-https://www.amazon.co.uk/Black-Box-Thinking-Marginal-Performance/dp/1473613809
+  by Dr. Henry Cloud
 
-### Action Inquiry: The Secret of Timely and Transforming Leadership
-by William R. Torbert
+- Bounce: The Myth of Talent and the Power of Practice
 
-https://www.amazon.co.uk/Action-Inquiry-Secret-Transforming-Leadership-ebook/dp/B005LY2JG8
+  by Matthew Syed
+
+- Black Box Thinking: Marginal Gains and the Secrets of High Performance
+
+  by Matthew Syed
+
+- Action Inquiry: The Secret of Timely and Transforming Leadership
+
+  by William R. Torbert
 
 ## Agile
 
-### Lean Enterprise: How High Performance Organizations Innovate at Scale
-by Jez Humble, Joanne Molesky, Barry O'Reilly
+- Lean Enterprise: How High Performance Organizations Innovate at Scale
 
-https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8
+  by Jez Humble, Joanne Molesky, Barry O'Reilly
 
 ## Programming
 
-### Code Complete: A Practical Handbook of Software Construction
-by Steve McConnell
+- Code Complete: A Practical Handbook of Software Construction
 
-https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+  by Steve McConnell
 
-### Clean Code: A Handbook of Agile Software Craftsmanship
-by Robert C. Martin
+- Clean Code: A Handbook of Agile Software Craftsmanship
 
-https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+  by Robert C. Martin
 
-### The Clean Coder: A Code of Conduct for Professional Programmers
-by Robert C. Martin
+- The Clean Coder: A Code of Conduct for Professional Programmers
 
-https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
+  by Robert C. Martin
 
-### Talking with Tech Leads: From Novices to Practitioners
-by Patrick Kua
+- Talking with Tech Leads: From Novices to Practitioners
 
-https://www.amazon.co.uk/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X
+  by Patrick Kua
 
 ## Node.js
 
-### Node.js Design Patterns
-by Mario Casciaro and Luciano Mammino 
+- Node.js Design Patterns
 
-https://www.amazon.co.uk/Node-js-Design-Patterns-Mario-Casciaro/dp/1785885588
-
-
+  by Mario Casciaro and Luciano Mammino

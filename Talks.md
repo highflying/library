@@ -2,36 +2,24 @@
 
 ## General
 
-### Becoming an Outlier: Career Reboot for the Developer Mind
-by Cory House
+- [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346)
+  by Cory House
 
-https://vimeo.com/97415346
+- [Public Speaking without Barfing on Your Shoes](https://www.youtube.com/watch?v=aPSvHT9USO8)
+  by David Neal
 
-### Public Speaking without Barfing on Your Shoes
-by David Neal
-
-https://www.youtube.com/watch?v=aPSvHT9USO8
-
-### Addressing Imposter Syndrome 
-by Crystal Huff
-
-https://vimeo.com/album/4045988/video/173322918
+- [Addressing Imposter Syndrome](https://vimeo.com/album/4045988/video/173322918)
+  by Crystal Huff
 
 ## Programming
 
-### Software Faster
-by Dan North
+- [Software Faster](https://www.youtube.com/watch?v=USc-yLHXNUg)
+  by Dan North
 
-https://www.youtube.com/watch?v=USc-yLHXNUg
-
-### Decisions, Decisions
-by Dan North
-
-https://www.youtube.com/watch?v=EauykEv_2iA 
+- [Decisions, Decisions](https://www.youtube.com/watch?v=EauykEv_2iA)
+  by Dan North
 
 ## Node.js
 
-### 9 Anti-Patterns for Node.js Teams
-by Jeff Harrell
-
-https://www.youtube.com/watch?v=6phif2t-wj0
+- [9 Anti-Patterns for Node.js Teams](https://www.youtube.com/watch?v=6phif2t-wj0)
+  by Jeff Harrell
